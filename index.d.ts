@@ -1,0 +1,1 @@
+export type getDecimalPlacesForCurrency = (currency: string) => number

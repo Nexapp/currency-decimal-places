@@ -1,0 +1,18 @@
+{
+  "name": "currency-decimal-places",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexapp/currency-decimal-places.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nexapp/currency-decimal-places/issues"
+  },
+  "homepage": "https://github.com/Nexapp/currency-decimal-places#readme"
+}
