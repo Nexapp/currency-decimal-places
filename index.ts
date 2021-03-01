@@ -167,6 +167,8 @@ const decimalPlaces = {
   ZWL: 2
 }
 
-export const getDecimalPlacesForCurrency = (currency: keyof typeof decimalPlaces) => {
+export type Currency = keyof typeof decimalPlaces;
+
+export const getDecimalPlacesForCurrency = (currency: Currency) => {
   return decimalPlaces[currency]
 }
